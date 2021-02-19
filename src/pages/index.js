@@ -6,7 +6,10 @@ import styles from "./index.module.scss";
 
 const IndexPage = () => {
   return (
+
+
     <div className={styles.page}>
+      <head>Slow Wave Audio<link rel="icon" href="../images/sw_icon-white.png"></link></head>
       <img src={logo} className={styles.logo} />
       <div className={styles.text}>
         With over 10 years experience working in the television and media
