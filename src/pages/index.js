@@ -1,5 +1,5 @@
 import * as React from "react";
-import logo from "../images/sw_logotype-green.png";
+import logo from "../images/sw_logotype.svg";
 import joel from "../images/joel.png";
 
 import styles from "./index.module.scss";
