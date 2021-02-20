@@ -9,10 +9,10 @@ const IndexPage = () => {
 
 
     <div className={styles.page}>
-      <head>Slow Wave Audio<link rel="icon" href="../images/sw_icon-white.png"></link></head>
+    <head>Slow Wave Audio<link rel="icon" href="../images/sw_icon-white.png"></link></head>
       <img src={logo} className={styles.logo} />
       <div className={styles.text}>
-        With over 10 years experience working in the television and media
+        With more than 10 years experience working in the television and media
         industries, we provide meticulous attention to detail on every job, from
         the prep right through to delivery. With experience in single,
         multi-camera and fixed rig location shoots, we strive to deliver top
@@ -22,7 +22,7 @@ const IndexPage = () => {
       <div className={styles.soundsGood}>
         Sounds good?
         <div>
-          <strong>Get in touch</strong> to start talking about your next project
+          <strong><a href = "mailto: joel@slowwaveaudio.tv">Get in touch</a></strong> to start talking about your next project
           today.
         </div>
         <img src={joel} className={styles.joelImage} />
