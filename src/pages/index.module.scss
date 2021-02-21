@@ -10,12 +10,12 @@
   font-family: Montserrat-Light;
   color: rgba(0, 0, 0, 0.8);
   .logo {
-    height: 200px;
+    height: 150px;
     @include tablet {
-      height: 100px;
+      height: 70px;
     }
     @include landscape-tablet {
-      height: 150px;
+      height: 100px;
       margin-bottom: 40px;
     }
   }
