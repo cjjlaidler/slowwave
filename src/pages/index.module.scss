@@ -12,10 +12,10 @@
   .logo {
     height: 150px;
     @include tablet {
-      height: 70px;
+      height: 40px;
     }
     @include landscape-tablet {
-      height: 100px;
+      height: 70px;
       margin-bottom: 40px;
     }
   }
