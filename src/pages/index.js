@@ -9,7 +9,8 @@ const IndexPage = () => {
 
 
     <div className={styles.page}>
-    <head>Slow Wave Audio<link rel="icon" href="../images/sw_icon-white.png"></link></head>
+
+    <head><title>Slow Wave Audio</title><link rel="icon" href="../images/sw_icon-white.png"></link></head>
       <img src={logo} className={styles.logo} />
       <div className={styles.text}>
         With more than 10 years experience working in the television and media
