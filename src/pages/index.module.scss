@@ -19,7 +19,10 @@
       margin-bottom: 40px;
     }
     @include desktop {
-      height: 150px
+      height: 150px;
+    }
+    @include phone {
+      height: 70px;
       margin-bottom: 40px;
     }
   }
