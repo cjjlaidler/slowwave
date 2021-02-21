@@ -10,9 +10,9 @@
   font-family: Montserrat-Light;
   color: rgba(0, 0, 0, 0.8);
   .logo {
-    height: 100px;
+    height: 150px;
     @include tablet {
-      height: 100px;
+      height: 70px;
     }
     @include landscape-tablet {
       height: 100px;
