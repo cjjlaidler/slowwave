@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Helmet } from "react-helmet";
-import logo from "../images/sw_logotype.svg";
+import logo from "../images/sw_byline-green.png";
 import joel from "../images/joel.png";
 import favicon from "../images/sw_icon-white-favicon.png";
 
