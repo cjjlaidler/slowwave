@@ -14,13 +14,14 @@
     margin-left: 70px;
     @include tablet {
       height: 70px;
+      margin-left: 35px;
     }
     @include landscape-tablet {
       height: 70px;
       margin-bottom: 40px;
     }
     @include desktop {
-      height: 150px;
+      height: 200px;
     }
   }
   .text {
