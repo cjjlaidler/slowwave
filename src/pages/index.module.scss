@@ -20,7 +20,6 @@
     }
     @include desktop {
       height: 200px;
-      margin-bottom: 40px;
   }
   .text {
     margin-top: 30px;
@@ -64,23 +63,26 @@
       }
     }
   }
-  .joelImage {
-    position: absolute;
-    right: 20px;
-    top: -30px;
-    height: 95px;
-    @include phone {
-      height: 120px;
-    }
-    @include tablet {
-      height: 140px;
-      right: 70px;
-    }
-    @include landscape-tablet {
-      height: 180px;
-      top: 90px;
-      right: 80px;
+    .joelImage {
+      position: absolute;
+      right: 20px;
+      top: -30px;
+      height: 95px;
+      @include phone {
+        height: 120px;
+      }
+      @include tablet {
+        height: 140px;
+        right: 70px;
+      }
+      @include landscape-tablet {
+        height: 180px;
+        top: 90px;
+        right: 80px;
+      }
+      @include desktop {
+        height: 230px;
+      }
     }
   }
-}
 }
