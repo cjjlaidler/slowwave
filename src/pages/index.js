@@ -2,7 +2,7 @@ import * as React from "react";
 import { Helmet } from "react-helmet";
 import logo from "../images/sw_logotype.svg";
 import joel from "../images/joel.png";
-import favicon from "../images/sw_icon-white.png";
+import favicon from "../images/sw_icon-white-favicon.png";
 
 import styles from "./index.module.scss";
 
