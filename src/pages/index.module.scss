@@ -12,6 +12,7 @@
   border:rgba(0, 0, 0, 0);
   color: rgb(255, 255, 255, 0.8);
   .logo {
+    position: fixed;
     height: 70px;
     margin-left: 50px;
     border-bottom: 1px solid rgb(255, 255, 255, 0.8);
@@ -46,7 +47,6 @@
   }
   .soundsGood {
     position: relative;
-    margin: 80px 0;
     margin-left: 40px;
     font-size: 16px;
     > div {
@@ -54,7 +54,6 @@
       margin-left: 40px;
       width: 50%;
       > strong {
-        margin-left: 40px;
         color: #71a28a;
         font-size: 18px;
       }
