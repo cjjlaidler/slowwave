@@ -30,6 +30,7 @@ const IndexPage = () => {
               <a href="mailto: joel@slowwaveaudio.tv">Get in touch</a>
             </strong>{" "}
             to start talking about your next project today.
+            <p>tel: +447590334666</p>
           </div>
           <img src={joel} className={styles.joelImage} />
         </div>
