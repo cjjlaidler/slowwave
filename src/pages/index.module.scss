@@ -8,9 +8,9 @@
 .page {
   font-family: Montserrat-Light;
   height: 100vh;
-  width: 100%;
   border: rgba(0, 0, 0, 0);
   color: rgb(255, 255, 255, 0.8);
+	overflow: hidden;
   .logo {
     height: 70px;
     margin-left: 50%;
