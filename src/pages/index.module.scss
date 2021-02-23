@@ -7,7 +7,7 @@
 
 .page {
   font-family: Montserrat-Light;
-  height: 150vh;
+  height: 120vh;
   border: rgba(0, 0, 0, 0);
   color: rgb(255, 255, 255, 0.8);
 	overflow: hidden;
@@ -77,7 +77,7 @@
       }
     }
     .joelImage {
-      position: absolute;
+      position: relative;
       right: 20px;
       top: -30px;
       height: 95px;
